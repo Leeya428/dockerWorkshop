@@ -2,3 +2,4 @@
 .idea
 webdemo/.gradle
 .DS_Store
+jenkins/home
